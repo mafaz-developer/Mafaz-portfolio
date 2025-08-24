@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge"
 
 export function AboutSection() {
   const highlights = [
-    "3+ Years Flutter Development",
+    "Ux internship at 1st year",
     "Cross-Platform Expert",
     "Clean Architecture Advocate",
     "UI/UX Enthusiast",

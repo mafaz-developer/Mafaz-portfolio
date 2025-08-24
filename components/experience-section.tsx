@@ -8,31 +8,24 @@ import { Calendar, MapPin, Building } from "lucide-react"
 export function ExperienceSection() {
   const experiences = [
     {
-      title: "Flutter Developer",
-      company: "Freelance",
-      location: "Remote",
-      period: "2022 - Present",
+      title: "Ux Designer",
+      company: "Crawlers Technologies Pvt Ltd",
+      location: "Onsite - Hubli, India",
+      period: "Jan 2025 - Apr 2025",
       description:
-        "Developing cross-platform mobile applications for various clients. Specializing in Flutter development with clean architecture patterns, state management, and API integrations.",
-      technologies: ["Flutter", "Dart", "Firebase", "Provider", "REST API", "Git"],
-    },
-    {
-      title: "Mobile App Developer",
-      company: "Tech Solutions",
-      location: "India",
-      period: "2021 - 2022",
-      description:
-        "Built mobile applications using Flutter framework. Collaborated with design teams to implement pixel-perfect UI/UX designs and integrated various third-party services.",
-      technologies: ["Flutter", "Dart", "SQLite", "Bloc", "Material Design"],
-    },
-    {
-      title: "Junior Developer",
-      company: "StartupHub",
-      location: "India",
-      period: "2021 - 2021",
-      description:
-        "Started career in mobile development, learning Flutter and Dart. Contributed to MVP development and gained experience in mobile app architecture and best practices.",
-      technologies: ["Flutter", "Firebase", "GetX", "UI/UX Design"],
+        "Leading the design of user-centric mobile applications, focusing on creating intuitive and engaging user experiences. Collaborating with cross-functional teams to ensure design consistency and usability across platforms.",
+      technologies: [
+    "Figma",
+    "User Research",
+    "Wireframing",
+    "Prototyping",
+    "User Flows",
+    "Information Architecture",
+    "Interaction Design",
+    "Usability Testing",
+    "Visual Design",
+    "Accessibility Design"
+  ],
     },
   ]
 
@@ -69,7 +62,7 @@ export function ExperienceSection() {
         >
           <h2 className="font-sans font-bold text-3xl sm:text-4xl lg:text-5xl mb-4">Work Experience</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            My journey in mobile development and the impact I've made
+            My journey in software development and the impact I've made
           </p>
         </motion.div>
 
